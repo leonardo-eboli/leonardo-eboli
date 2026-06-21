@@ -18,19 +18,4 @@ Uso este espaço para expor meus projetos práticos e documentar minha evoluçã
 
 
 
-## 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,powershell,linux,kali,windows,azure&theme=dark" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Active_Directory-0078D7?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=flat-square&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suricata-EF3B24?style=flat-square&logo=suricata&logoColor=white" />
-</p>
-
-<br />
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer)
